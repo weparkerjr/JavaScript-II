@@ -3,6 +3,8 @@
 
 With some basic JavaScript principles in hand, we can now expand our skills out even further by exploring callback functions, array methods, and closure.  Finish each task in order as the concepts build on one another.
 
+TO DO:
+
 ## Set Up The Project With Git
 
 **Follow these steps to set up and work on your project:**
